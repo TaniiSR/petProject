@@ -1,2 +1,2 @@
 # petProject
-This my pet project where I implement my best tech skills
+This is my pet project where I implement my best tech skills
